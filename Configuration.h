@@ -138,6 +138,7 @@
   #define MOTHERBOARD BOARD_MKS_GEN_L
 #endif
 
+
 // Optional custom name for your RepStrap or other custom machine
 // Displayed in the LCD "Ready" message
 #define CUSTOM_MACHINE_NAME "Tevo Tornado"
@@ -176,6 +177,7 @@
   //#define E_MUX1_PIN 42  // Needed for 3 to 8 steppers
   //#define E_MUX2_PIN 44  // Needed for 5 to 8 steppers
 #endif
+
 
 // A dual extruder that uses a single stepper motor
 //#define SWITCHING_EXTRUDER

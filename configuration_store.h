@@ -47,6 +47,7 @@ class MarlinSettings {
       #endif
     }
 
+
     #if ENABLED(EEPROM_SETTINGS)
       static bool load();     // Return 'true' if data was loaded ok
       static bool validate(); // Return 'true' if EEPROM data is ok
